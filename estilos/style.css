@@ -104,14 +104,15 @@ form > a.botao {
     height: 40px;
     padding-top: 7px;
     margin-top: 5px;
-    background-color: #57c3bf;
+    background-color: #49a09d;
     color: white;
-    border: 1px solid #2e6664;
+    border: none;
+    border-radius: 5px;
     text-decoration: none;
 }
 
 form > a.botao:hover {
-    background-color: #57c3bf;
+    background-color: #2e6664;
 }
 
 form > a.botao > i {
